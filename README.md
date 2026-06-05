@@ -25,14 +25,13 @@ Hi, I'm **Hamsini Govvala** 👋
 * Python
 * Machine Learning
 * Artificial Intelligence
-* Cloud Computing
-* Git & GitHub
+* GitHub
 
 ## 🔭 Currently Working On
 
 * AI/ML Projects
 * Python Development
-* Cloud Learning Programs
+
 
 ## 👯 Looking to Collaborate On
 
