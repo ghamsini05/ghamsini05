@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6D3&height=220&section=header&text=Hamsini%20Govvala&fontSize=40&fontColor=7D5A50&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=C8A27D&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Open+Source+Explorer;Building+My+Future+One+Project+at+a+Time+✨" />
+<img src="font=Poppins&weight=600&size=24&pause=1000&color=C8A27D&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Open+Source+Explorer;Building+My+Future+One+Project+at+a+Time+✨" />
 
 <br>
 
