@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6D3&height=220&section=header&text=Hamsini%20Govvala&fontSize=40&fontColor=7D5A50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6D3&height=220&section=header&text=Hamsini%20Govvala&fontSize=42&fontColor=7D5A50&animation=fadeIn"/>
 
-<img src="font=Poppins&weight=600&size=24&pause=1000&color=C8A27D&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Open+Source+Explorer;Building+My+Future+One+Project+at+a+Time+✨" />
-
-<br>
-
-<img src="https://i.imgur.com/qK42fUu.gif" width="350"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=B08968&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Open+Source+Explorer;Building+My+Future+One+Project+at+a+Time+✨"/>
 
 </div>
 
@@ -14,7 +10,7 @@
 
 Hi, I'm **Hamsini Govvala** 👋
 
-🎓 Information Technology student passionate about Artificial Intelligence, Machine Learning, Cloud Computing, and Web Technologies.
+🎓 Information Technology student passionate about AI, Machine Learning, Cloud Computing, and Web Technologies.
 
 💡 I enjoy learning new technologies, building projects, participating in virtual internships, and contributing to technical communities.
 
@@ -37,40 +33,32 @@ Hi, I'm **Hamsini Govvala** 👋
 * AI/ML Projects
 * Python Development
 * Cloud Learning Programs
-* Open Source Contributions
 
 ## 👯 Looking to Collaborate On
 
-* AI & ML Projects
 * Open Source Projects
+* AI/ML Applications
 * Student Tech Communities
-* Innovative Development Projects
 
 ## 💬 Ask Me About
 
 * Python
 * GitHub
+* Student Programs
 * Virtual Internships
-* Campus Ambassador Programs
-* Student Opportunities
+* Campus Ambassador Opportunities
 
 ## ⚡ Fun Fact
 
-I love continuously upskilling myself through projects, certifications, internships, and technical challenges.
+I love continuously upskilling myself and exploring new technologies through projects, internships, and challenges.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="mailto:ghamsini05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F5E6D3?style=for-the-badge&logo=gmail&logoColor=7D5A50"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5E6D3?style=for-the-badge\&logo=linkedin\&logoColor=7D5A50)](https://www.linkedin.com/in/hamsini-govvala-39233436b/)
 
-<a href="https://www.linkedin.com/in/hamsini-govvala-39233436b/">
-<img src="https://img.shields.io/badge/LinkedIn-F5E6D3?style=for-the-badge&logo=linkedin&logoColor=7D5A50"/>
-</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-F5E6D3?style=for-the-badge\&logo=gmail\&logoColor=7D5A50)](mailto:ghamsini05@gmail.com)
 
 ---
 
@@ -82,14 +70,12 @@ I love continuously upskilling myself through projects, certifications, internsh
 ![CSS3](https://img.shields.io/badge/CSS3-F5E6D3?style=for-the-badge\&logo=css3\&logoColor=7D5A50)
 ![React](https://img.shields.io/badge/React-F5E6D3?style=for-the-badge\&logo=react\&logoColor=7D5A50)
 ![MySQL](https://img.shields.io/badge/MySQL-F5E6D3?style=for-the-badge\&logo=mysql\&logoColor=7D5A50)
-![Git](https://img.shields.io/badge/Git-F5E6D3?style=for-the-badge\&logo=git\&logoColor=7D5A50)
-![GitHub](https://img.shields.io/badge/GitHub-F5E6D3?style=for-the-badge\&logo=github\&logoColor=7D5A50)
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ghamsini05\&theme=rose_pine\&hide_border=true\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=ghamsini05\&theme=rose_pine\&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ghamsini05\&theme=rose_pine\&hide_border=true)
 
@@ -100,12 +86,6 @@ I love continuously upskilling myself through projects, certifications, internsh
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=light)
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ghamsini05\&theme=flat\&no-frame=true\&margin-w=10)
 
 ---
 
