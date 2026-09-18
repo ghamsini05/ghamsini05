@@ -6,7 +6,7 @@
 
 </div>
 
-# 🌸 About Me
+#  About Me
 
 Hi, I'm **Hamsini Govvala** 👋
 
@@ -96,7 +96,7 @@ I love continuously upskilling myself and exploring new technologies through pro
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile 🌸
+###  Thanks for visiting my profile 
 
 *"Keep learning, keep building, keep growing."*
 
